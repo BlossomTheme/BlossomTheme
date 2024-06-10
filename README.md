@@ -23,4 +23,4 @@
 | Blue    | #26b3d2 | ![](./swatches/Blue.png)    |     | Blue 2   | #729fcf | ![](./swatches/Blue-2.png)    |
 | Purple  | #9200ff | ![](./swatches/Purple.png)  |     | Purple 2 | #ff0eff | ![](./swatches/Purple-2.png)  |
 | Pink    | #ea748f | ![](./swatches/Pink.png)    |     | Pink 2   | #34e2e2 | ![](./swatches/Pink-2.png)    |
-| White 2 | #d3d7cf | ![](./swatches/white-2.png) |     | White 3  | #eeeeec | ![](./swatches/white-3.png)   |
+| White 2 | #d3d7cf | ![](./swatches/White-2.png) |     | White 3  | #eeeeec | ![](./swatches/White-3.png)   |
