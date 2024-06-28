@@ -4,7 +4,7 @@ We welcome contributions to our theme repository! If you're interested in creati
 
 **Before You Start**
 
-1. Read through our [Palette](./Palette/README.md) document to get an understanding of the color palette and design principles we use for our themes.
+1. Read through our [Palette](https://github.com/BlossomTheme/BlossomTheme/blob/master/Palette/README.md) document to get an understanding of the color palette and design principles we use for our themes.
 2. Choose a theme idea or inspiration from our existing themes or come up with your own unique idea.
 
 **Starting the build**
