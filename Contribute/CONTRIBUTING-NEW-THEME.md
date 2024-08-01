@@ -1,4 +1,4 @@
-**Contributing to Themes**
+**Contributing New Themes**
 
 We welcome contributions to our theme repository! If you're interested in creating a new theme for our software, please follow these guidelines:
 
