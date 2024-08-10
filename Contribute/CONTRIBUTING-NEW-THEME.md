@@ -16,9 +16,10 @@ We welcome contributions to our theme repository! If you're interested in creati
 2. Click on the "Issues" tab.
 
 3. Create a new issue with the following details:
-  Title: "Theme Submission: [Your Name]"
-  Label: ```theme-submission``` will be automatically added to your issue if done right.
-  Content: Describe the Theme you created and other info if available.
+
+   - Title: "Theme Submission: [Theme Name]"
+   - Label: ```theme-submission``` will be automatically added to your issue if done right.
+   - Content: Describe the Theme you created and other info if available.
 
 **Previews**
 Please include at least two screenshots of your theme:
