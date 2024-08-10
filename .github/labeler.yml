@@ -1,2 +1,2 @@
 membership-request:
-    - '(membership|request)'
+    - '(Membership|membership|Request|request)'
