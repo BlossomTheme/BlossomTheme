@@ -11,15 +11,11 @@ We welcome contributions to our theme repository! If you're interested in creati
 1. Create a new repository based on this [template](https://github.com/BlossomTheme/Template.git)
 
 **Submitting Your Theme**
-1. Go to the [BlossomTheme repository](https://github.com/BlossomTheme/BlossomTheme).
+1. 1. Create a new Issue with the proper template by clicking [here](https://github.com/BlossomTheme/BlossomTheme/issues/new?assignees=&labels=&projects=&template=theme-submission.md&title=Theme+Submission+%3A+%5BTHEME+NAME%5D).
 
-2. Click on the "Issues" tab.
+2. Fill out the necessary details.
 
-3. Create a new issue with the following details:
-
-   - Title: "Theme Submission: [Theme Name]"
-   - Label: ```theme-submission``` will be automatically added to your issue if done right.
-   - Content: Describe the Theme you created and other info if available.
+3. Label: ```theme-submission``` will be automatically added to your issue if done right.
 
 **Previews**
 Please include at least two screenshots of your theme:

@@ -6,16 +6,13 @@ Are you interested in becoming a member of the BlossomTheme organization? We'd l
 
 ## How to Apply
 
-1. Go to the [BlossomTheme repository](https://github.com/BlossomTheme/BlossomTheme).
+1. Create a new Issue with the proper template by clicking [here](https://github.com/BlossomTheme/BlossomTheme/issues/new?assignees=&labels=&projects=&template=membership-request.md&title=Membership+Request+%3A+%5BUsername%5D).
 
-2. Click on the "Issues" tab.
+2. Fill out the necessary details.
 
-3. Create a new issue with the following details:
-   - Title: "Membership Request: [Your Name]"
-   - Label: `membership-request` will be automatically added to your issue if done right.
-   - Content: Describe what you'd like to do in the organization
+3. Label: `membership-request` will be automatically added to your issue if done right.
 
-## What to Include in Your Application
+## What to Include in Your Application (Optional)
 
 In your issue, please provide the following information:
 
