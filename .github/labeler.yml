@@ -1,2 +1,5 @@
 membership-request:
     - '(Membership|membership|Request|request)'
+
+theme-submission:
+    - '(Theme|theme|Submission|submission)'
