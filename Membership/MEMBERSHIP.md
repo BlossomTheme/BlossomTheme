@@ -12,7 +12,7 @@ Are you interested in becoming a member of the BlossomTheme organization? We'd l
 
 3. Create a new issue with the following details:
    - Title: "Membership Request: [Your Name]"
-   - Label: Add the `membership-request` label to your issue
+   - Label: `membership-request` will be automatically added to your issue if done right.
    - Content: Describe what you'd like to do in the organization
 
 ## What to Include in Your Application

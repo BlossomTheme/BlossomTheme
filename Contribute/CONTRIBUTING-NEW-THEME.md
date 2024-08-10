@@ -11,12 +11,20 @@ We welcome contributions to our theme repository! If you're interested in creati
 1. Create a new repository based on this [template](https://github.com/BlossomTheme/Template.git)
 
 **Submitting Your Theme**
-1. [submit an issue](https://github.com/BlossomTheme/BlossomTheme/issues/new) with a link to your repository. Once the theme is accepted, we will move the repository under the Dracula organization and give you rights to maintain it. Be sure to tag it with `theme-submission` tag.
+1. Go to the [BlossomTheme repository](https://github.com/BlossomTheme/BlossomTheme).
+
+2. Click on the "Issues" tab.
+
+3. Create a new issue with the following details:
+
+   - Title: "Theme Submission: [Theme Name]"
+   - Label: ```theme-submission``` will be automatically added to your issue if done right.
+   - Content: Describe the Theme you created and other info if available.
 
 **Previews**
 Please include at least two screenshots of your theme:
 
-* A screenshot of the theme in action, showing how it looks in our software
+* A screenshot of the theme in action, showing how it looks in your software
 
 **Code Style**
 
