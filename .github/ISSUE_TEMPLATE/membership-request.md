@@ -8,6 +8,11 @@ assignees: ''
 ---
 
 ## Membership Request
+
+@BlossomTheme/membership
+
+<!--- ^ DO NOT EDIT ABOVE ^ --->
+
 - Github Username: [Username]
 - What I would like to do in the organization: [Answer]
 
