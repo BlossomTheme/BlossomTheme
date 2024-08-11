@@ -8,6 +8,11 @@ assignees: ''
 ---
 
 ## Theme Submission
+
+@BlossomTheme/theme-submission
+
+<!--- ^ DO NOT EDIT ABOVE ^ --->
+
 - Software / Web / Service (what the theme is made for) : [Answer]
 - Current location of the theme (Personal / Org Github link of the current place of the theme) : [Answer]
 
